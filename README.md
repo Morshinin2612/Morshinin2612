@@ -1,18 +1,18 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Привет+👋;+Меня+зовут+Артем" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋;+I'm Artem" />
 </h1>
 
-<h3 align="center">Я программист и дизайнер</h3>
+<h3 align="center">Programmer and designer</h3>
 
 <br/>
 
 <div align="center">
  
-🤖 Разрабатываю ботов для **телеграма, вк, дискорда**
-💻 Фронтенд разработка 
-🕹️ Создание игр на **Unity**
+🤖 Developing bots for **telegram, vk, discord**
+💻 Frontend development
+🕹️ Creating games on **Unity**
 
  </div>
  
